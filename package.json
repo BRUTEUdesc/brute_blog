@@ -24,7 +24,7 @@
     "pico": "github:tryghost/pico",
     "lyra": "github:tryghost/lyra",
     "liebling": "github:snathjr/liebling",
-    "brute_theme": "github:vgasparini/brute_theme"
+    "brute_theme": "github:bruteudesc/brute_theme"
   },
   "engines": {
     "node": "10.X"
