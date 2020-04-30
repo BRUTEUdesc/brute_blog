@@ -9,7 +9,7 @@ themes=(
         pico
         lyra
 	liebling
-	brute
+	brute_theme
 )
 
 for theme in "${themes[@]}"
